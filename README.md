@@ -74,9 +74,8 @@ Full-featured platform with:
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your professional email)
-- 🌐 Portfolio: (Add if you have one)
+- 💼 LinkedIn: www.linkedin.com/in/kirtan-patel333
+- 📧 Email: kypatel7338@gmail.com
 
 ---
 
