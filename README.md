@@ -68,7 +68,9 @@ Full-featured platform with:
 
 ## 📈 GitHub Stats
 
-![Kirtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamFLaME03&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=IamFLaME03&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 ---
 
