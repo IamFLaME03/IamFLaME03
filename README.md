@@ -66,14 +66,6 @@ Full-featured platform with:
 
 ---
 
-## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=IamFLaME03&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/kirtan-patel333
