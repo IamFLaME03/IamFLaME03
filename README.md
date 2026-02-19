@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kirtan Patel</h1>
+<h3 align="center">MERN Stack Developer | Full Stack Enthusiast | System Design Learner</h3>
 
-<!--
-**IamFLaME03/IamFLaME03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Passionate Full-Stack Developer focused on the **MERN Stack**
+- 🚗 Currently building a **Car Marketplace Platform**
+- 🛠️ Interested in scalable architecture & clean backend design
+- 📚 Preparing for **MERN Developer roles**
+- 💡 Love building real-world projects
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5 / CSS3
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+### 🛠 Tools & Others
+- Git & GitHub
+- Postman
+- VS Code
+- Figma (UI Planning)
+
+---
+
+## 🧠 Currently Working On
+
+🚗 Car Marketplace System (Buy / Sell / Negotiate Flow)  
+🔐 JWT Authentication & Role-Based Access  
+📊 Admin Panel Architecture (Store vs Admin separation)
+
+---
+
+## 📌 Featured Projects
+
+### 🚗 Car Marketplace (MERN)
+Full-featured platform with:
+- Buyer & Seller Roles
+- Chat Negotiation System
+- Secure Payment Flow
+- Reservation & Order Management
+
+### 🛒 E-commerce Admin Panel
+- Scalable Admin Architecture
+- Product & Inventory Management
+- Performance Optimized Layout
+
+### 📊 MERN System Design Projects
+- Sequence Diagrams
+- Activity Diagrams
+- Production-Ready Architecture
+
+---
+
+## 📈 GitHub Stats
+
+![Kirtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamFLaME03&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: (Add your LinkedIn link here)
+- 📧 Email: (Add your professional email)
+- 🌐 Portfolio: (Add if you have one)
+
+---
+
+⭐ *Open to internships & full-time MERN Developer opportunities*
